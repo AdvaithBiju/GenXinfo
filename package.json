@@ -1,0 +1,13 @@
+{
+  "name": "reddit-news-moderator",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^4.21.2"
+  }
+}
